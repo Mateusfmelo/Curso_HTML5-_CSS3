@@ -1,1 +1,3 @@
-# Curso_HTML5-_CSS3
+# Curso de HTML5 e CSS3
+
+### Retomando o curso que foi parado há algum tempo
